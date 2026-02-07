@@ -12,4 +12,4 @@ void getInput(double a, double b, char *op) {
     scanf("%lf", b);
 }
 
-//helloklj
+//hellokl
