@@ -4,6 +4,6 @@
 void displayTitle();
 void displayMenu();
 double calculate(double a, double b, char op);
-void getInput(double a, doubleb, char *op);
+void getInput(double a, double b, char *op);
 
 #endif

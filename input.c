@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include "calculator.h"
 
-void getInput(double a, doubleb, char *op) {
+void getInput(double a, double b, char *op) {
     printf("Enter first number: ");
     scanf("%lf", a);
 
@@ -11,3 +11,5 @@ void getInput(double a, doubleb, char *op) {
     printf("Enter second number: ");
     scanf("%lf", b);
 }
+
+//hellokl
